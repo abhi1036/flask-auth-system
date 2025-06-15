@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name": "Abhi",
+        "email": "iAbhi@example.com",
+        "password": "scrypt:32768:8:1$v8K5FJBboFbuYtdK$cca1d2f07c9318767b82876fb261b7369175cc67eba1e49bc7dbe5f9dad8d0b9e571093bd1cae6fda5b70265333e8010567ea60c2ff72f72e2d9bae33df63874",
+        "role": "user",
+        "is_deleted": true,
+        "verified": true
+    },
+    {
+        "id": 2,
+        "name": "jayu",
+        "email": "newjayu@example.com",
+        "password": "scrypt:32768:8:1$TdYCd7t989rhfPip$c017ac20ac776d8b82fa9d99b20da57abdb33a60f622134572f4404855566df57ef9c1fec84761333dab5588887278c18f6c52a94e89784f19b815a658cfdaa8",
+        "role": "admin",
+        "is_deleted": true,
+        "is_verified": true
+    },
+    {
+        "id": 3,
+        "name": "Jayu",
+        "email": "iJayu@example.com",
+        "password": "pbkdf2:sha256:1000000$2BAv3lXp3tyu5BtC$58eebf928773a3904ed3307b172dc1115a7dcb9b407783079d7c59030474d880",
+        "role": "admin",
+        "is_deleted": true,
+        "is_verified": true
+    },
+    {
+        "id": 4,
+        "name": "Sudeep",
+        "email": "iSudeep@example.com",
+        "password": "pbkdf2:sha256:1000000$NnuPf8ktEO0VVkAw$35ef4bf83bc0607bd1a700c8d8040df37d5f9c554d8f7f26678dca7381233f0b",
+        "role": "user",
+        "is_deleted": true,
+        "is_verified": true
+    },
+    {
+        "id": 5,
+        "name": "Jayesh",
+        "email": "iJayesh@example.com",
+        "password": "scrypt:32768:8:1$OsBPhwMKsgxbQOV5$ab57e30c2352f4feaf589a0a75642c14fbdff728ba60a6e14133593406a13414180a11e48a03877db7725f7c19412def164e91081b415af4b854d99cfc8ff4dd",
+        "role": "user",
+        "is_deleted": true,
+        "is_verified": true
+    },
+    {
+        "id": 6,
+        "name": "Omkar",
+        "email": "iOmkar@example.com",
+        "password": "scrypt:32768:8:1$XZnXoyLANvaAXQpi$b3d9e8d14182768fe01e62f9b4500fcf5afc5df6c333b03f0af9eb1c187cb38f7559a9c789b94616e8f6ea667645aff314bbdc6ac73d5f7d33da13e1252cddb7",
+        "role": "user",
+        "is_deleted": true,
+        "verified": true,
+        "is_verified": true
+    }
+]
