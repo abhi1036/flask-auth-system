@@ -21,4 +21,4 @@ Supports user registration, login, email verification, JWT authentication, passw
 ## 📂 Setup
 ```bash
 pip install -r requirements.txt
-python app.py
+python main.py
